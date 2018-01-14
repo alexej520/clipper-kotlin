@@ -22,7 +22,7 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 
-compile 'com.github.alexej520.clipper-kotlin:1.0'
+compile 'com.github.alexej520:clipper-kotlin:1.0'
 ```
 
 Feel free to contact me if you found a bug or have a question regarding the Kotlin version.
